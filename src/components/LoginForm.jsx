@@ -22,7 +22,7 @@ const Modal = () => {
       window.location.reload();
       setError('');
     } catch (err) {
-      setError('Oops, incorrect credentials.');
+      setError('Oops, sonu is not allowing you.');
     }
   };
 
